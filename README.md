@@ -1,2 +1,2 @@
 # project-01
-Simple java software for class and exam managment.
+Simple java backend with gui for class and exam managment.
